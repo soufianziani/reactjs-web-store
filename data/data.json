@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "123123",
+      "id": 1
+    },
+    {
+      "name": "test5",
+      "email": "test5@test.com",
+      "id": "test5@test.com",
+      "password": "test5@test.com"
+    },
+    {
+      "name": "test5@test.com",
+      "email": "test55@test.com",
+      "id": "test55@test.com",
+      "password": "test55@test.com"
+    },
+    {
+      "name": "hammia",
+      "email": "hammia27@gmail.com",
+      "id": "hammia27@gmail.com",
+      "password": "hammia"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "title": "Massala Theoryy",
+      "image": "https://w0.peakpx.com/wallpaper/790/477/HD-wallpaper-croissant-crispy-food-bun.jpg",
+      "price": 3
+    },
+    {
+      "id": 2,
+      "title": "Jugaadi Adda",
+      "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Croissant-Fillings-1.jpg",
+      "price": 7
+    },
+    {
+      "id": 3,
+      "title": "La Milano Pizzeria ",
+      "image": "https://i.pinimg.com/736x/19/3f/bf/193fbf4408f357f5a4d38d6d141683bd.jpg",
+      "price": 37
+    },
+    {
+      "id": 4,
+      "title": "Momoman ",
+      "image": "https://i.pinimg.com/474x/9b/47/61/9b4761b90fca0d7163fdf3e21d62e660.jpg",
+      "price": 10
+    },
+    {
+      "id": 5,
+      "title": "Jassi De Parathe  ",
+      "image": "https://i.pinimg.com/474x/ec/47/fe/ec47fe400a322e0055da9efa60aab9fc.jpg",
+      "price": 9.99
+    },
+    {
+      "id": 6,
+      "title": "Anjoy Latenight  ",
+      "image": "https://i.pinimg.com/474x/0f/29/98/0f2998b75dbb12af10ec13c9417c473c.jpg",
+      "price": 11
+    },
+    {
+      "id": 7,
+      "title": "Chai Wai",
+      "image": "https://i.pinimg.com/474x/f5/6d/87/f56d87d120686c02765b8d1529e5ad4f.jpg",
+      "price": 21
+    },
+    {
+      "id": 8,
+      "title": " Hocco Eatery",
+      "image": "https://i.pinimg.com/474x/46/40/e6/4640e67ee85abef8b7acbe14b002115b.jpg",
+      "price": 23
+    },
+    {
+      "id": 9,
+      "title": " HL Frankie",
+      "image": "https://i.pinimg.com/474x/f1/43/ba/f143ba141c052b072b4cbb393b14e316.jpg",
+      "price": 21
+    },
+    {
+      "id": 28,
+      "title": "awerty",
+      "image": "https://www.shutterstock.com/image-photo/natural-valecia-orange-fruit-cut-260nw-1716508252.jpg",
+      "price": 15
+    }
+  ]
+}
